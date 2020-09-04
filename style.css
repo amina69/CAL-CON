@@ -99,8 +99,6 @@ img{
 
 #navbar{
     background-color: white;
-    width: 100%;
-    margin-top: 20px;
 }
 
 #navbar ul{
@@ -245,6 +243,8 @@ a button:hover{
 
     #navbar{
         background-color: white;
+        width: 100%;
+        margin-top:30px;
     }
     
     #navbar ul{
